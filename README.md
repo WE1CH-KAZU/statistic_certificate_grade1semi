@@ -23,6 +23,7 @@
 - 05: [離散型分布](./grade1semi_WB/chapter_5/)
 - 06: [連続型分布と標本分布](./grade1semi_WB/chapter_6/)
 - 07: [極限定理、漸近理論](./grade1semi_WB/chapter_7/)
+  - [極値分布3種の確率密度関数のグラフ／それぞれのテールの形状を確認できる](./photo/Gumbel_Weibull_Frechet.jpg)
 - 08: [統計的推定の基礎](./grade1semi_WB/chapter_8/)
 - 09: [区間推定](./grade1semi_WB/chapter_9/)
 - 10: [検定の基礎と検定法の算出](./grade1semi_WB/chapter_10/)
