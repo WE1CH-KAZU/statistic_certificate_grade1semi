@@ -55,7 +55,7 @@
 - 32: [シミュレーション](./grade1semi_WB/chapter_32/)
 
 # 過去問の解答内容
-こちらのフォルダから内容を確認できます -> [2015-2018年分](./grade1semi_Official_Q_book/)
+こちらのフォルダから内容を確認できます -> [2015-2018年分](./grade1semi_Official_Q/)
 
 # Python環境
 * Python 3.12.1
