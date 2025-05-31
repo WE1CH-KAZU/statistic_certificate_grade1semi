@@ -54,6 +54,12 @@
 - 31: [ベイズ法](./grade1semi_WB/chapter_31/)
 - 32: [シミュレーション](./grade1semi_WB/chapter_32/)
 
+# 過去問の解答内容
+- 2015年: [2015年解答](./grade1semi_Official_Q_book/2015_06/)
+- 2016年: [2016年解答](./grade1semi_Official_Q_book/2016_06/)
+- 2017年: [2017年解答](./grade1semi_Official_Q_book/2017_06/)
+- 2018年: [2018年解答](./grade1semi_Official_Q_book/2018_06/)
+
 # Python環境
 * Python 3.12.1
 * その他ライブラリは[requirements.txt](./statistic_certificate_requirements.txt)を参照ください。
