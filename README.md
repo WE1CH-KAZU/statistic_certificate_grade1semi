@@ -14,7 +14,7 @@
   * 自作の演習問題も一部含まれています。
   * ワークブック（WB）と一緒にノートが読まれることを想定しています。
 
-# 章の説明
+# 章の説明リンク
 - 01: [事象と確率](./grade1semi_WB/chapter_1/)
 - 02: [確率分布と母関数](./grade1semi_WB/chapter_2/)
 - 03: [分布の特性値](./grade1semi_WB/chapter_3/)
@@ -44,8 +44,10 @@
 - 23: [判別分析](./grade1semi_WB/chapter_23/)
 - 24: [クラスター分析](./grade1semi_WB/chapter_24/)
 - 25: [因子分析・グラフィカルモデル](./grade1semi_WB/chapter_25/)
+  - [標準化有無における因子分析の解析結果の比較](./src/fa.ipynb)
 - 26: [その他の多変量解析法](./grade1semi_WB/chapter_26/)
 - 27: [時系列解析](./grade1semi_WB/chapter_27/)
+  - [様々な条件における時系列グラフの相関係数とスペクトラムグラフ](./src/graphs.ipynb)
 - 28: [分割法](./grade1semi_WB/chapter_28/)
 - 29: [不完全データの統計処理](./grade1semi_WB/chapter_29/)
 - 30: [モデル選択](./grade1semi_WB/chapter_30/)
