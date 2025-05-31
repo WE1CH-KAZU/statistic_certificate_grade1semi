@@ -54,5 +54,8 @@
 - 31: [ベイズ法](./grade1semi_WB/chapter_31/)
 - 32: [シミュレーション](./grade1semi_WB/chapter_32/)
 
+# Python環境
+* Python 3.12.1
+* その他ライブラリは[requirements.txt](./statistic_certificate_requirements.txt)を参照ください。
 # セキュリティ
 * セキュリティに関する報告や問い合わせは [SECURITY.md](./SECURITY.md) をご覧ください。
