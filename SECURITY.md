@@ -3,7 +3,7 @@
 ## 脆弱性の報告方法
 
 1. **GitHubのプライベートイシュー**
-   - リポジトリの[イシュー](https://github.com/statistic_certificate_grade1semi/issues)タブからプライベートイシューを作成してください。
+   - リポジトリの[イシュー](https://github.com/WE1CH-KAZU/statistic_certificate_grade1semi/issues)タブからプライベートイシューを作成してください。
 
 ## セキュリティ対応の方針
 
